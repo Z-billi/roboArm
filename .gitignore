@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+.tools/
+
+# Local settings, credentials and editor files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# SolidWorks lock, backup and recovery files
+~$*
+*.sldbak
+*.swar
+Backup of *

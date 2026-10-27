@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.ino text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.bat text eol=crlf
+*.SLDPRT binary
+*.SLDASM binary
+*.STEP binary
+*.png binary
